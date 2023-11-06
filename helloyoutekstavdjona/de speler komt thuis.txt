@@ -1,0 +1,13 @@
+de speler komt thuis
+1. hij pakt eten/2. hij gaat naar ze kamer
+1. if 1 is chosen hij ziet ze moeder veranderen in een monster
+1. 1. vechten met het monster/2. wegrennen
+1. if 1 is chosen player gaat vechten met het monster
+1. if 2 is chosen: player probeert weg te rennen maar word gepakt en opgegeten = game over
+2. if 2 is chosen player gaat naar ze kamer en hoort iets uit beneden
+2. 1. player gaat op onderzoek uit/ 2. player blijft in ze kamer
+2 if 1 is chosen player ziet ze vader gepakt worden en daarna word hij opgegeten = game over
+2. if 2 is chosen player blijft in ze kamer en pakt wapens
+1.1. player pakt het pistool uit de keuken la en schiet het monster dood = victory
+2. 2. player richt op de deur en schietr het monster wanneer het binnen komt = victory
+
